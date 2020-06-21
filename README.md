@@ -27,4 +27,6 @@ npm run start
 ```
 <h2>Previews</h2>
 
-![](preview/preview.png)
+![](preview/preview.jpg)
+
+
